@@ -1,0 +1,9 @@
+ - Each object has id and value: `a = 5; id(a)`
+ - Mutable (dict, list) and immutable (string, integer, tuple) objects
+ - integer division = / (// in Python3): `3/4 == 0; 3/4. == 0.75`
+ - power = **
+ - strings with 's', "s", '''s''', """s"""
+ - format strings = `"%s".format('t'), "{0}".format('t')`
+ - show attrs and methods `dir([]) or dir("")`
+ - __add__, __div__ -  methods which define + / logic for the object
+ - help("a".start_with) - shows help message for the method
