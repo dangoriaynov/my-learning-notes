@@ -16,7 +16,8 @@ Y | Z | 1 | 2 | 3 | 4 | 5 | 6
 -..- | .--.-. | -.-.- | (-.) ...-. | ........ | -.- | .-... | ...-.-
 
 # Pauses
-DASH - three dots
-SPACE BETWEEN 2 SIG FORMING THE SAME LETTER - one dot
-SPACE BETWEEN 2 LETTERS - 3 dots
-SPACE BETWEEN 2 WORDS - 7 dots
+**DASH** - 3 dots  
+SPACE BETWEEN:  
+**SIGNS FORMING THE SAME LETTER** - 1 dot  
+**LETTERS** - 3 dots  
+**WORDS** - 7 dots  
