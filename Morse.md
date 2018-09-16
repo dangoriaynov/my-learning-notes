@@ -14,3 +14,9 @@ Y | Z | 1 | 2 | 3 | 4 | 5 | 6
 .----. | -....- | -..-. | -.--. | -.--.- | .-..-. | -...- | .-.-.
 \* | @ | STARTING SIG | (NOT) UNDERSTOOD | ERROR | INVITE | WAIT | EOWORK
 -..- | .--.-. | -.-.- | (-.) ...-. | ........ | -.- | .-... | ...-.-
+
+# Pauses
+DASH - three dots
+SPACE BETWEEN 2 SIG FORMING THE SAME LETTER - one dot
+SPACE BETWEEN 2 LETTERS - 3 dots
+SPACE BETWEEN 2 WORDS - 7 dots
